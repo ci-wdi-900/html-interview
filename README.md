@@ -6,7 +6,13 @@ Although we're working in groups for this assignment, we'll still turn in separa
 
 ## Instructions
 
+#### Part 0: Project set up
+
 Start off by forking this repository. Forking an existing repository is just like creating a new one except that your new repository will contain a copy of the forked code. 
+
+After forking the repository, enable GitHub Pages. To do this, go to the Settings tab of your repository, then go to Pages on the left. Change source to 'Main' or 'Master' depending on which option you have. Then click save. The page should refresh and a URL to your hosted project should be visible.
+
+Finally, copy that URL, navigate back to the home page of your repository, click the gear icon next to the 'About' section on the right, and set the 'Website' of your project to be this GitHub Pages URL.
 
 #### Part 1: Ten questions, ten answers
 
