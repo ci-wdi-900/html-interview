@@ -2,6 +2,8 @@
 
 In this assignment, we'll work in groups of 2-3 students. This is a great time to meet your fellow classmates!
 
+Although we're working in groups for this assignment, we'll still turn in separate code submissions.
+
 ## Instructions
 
 #### Part 1: Ten questions, ten answers
