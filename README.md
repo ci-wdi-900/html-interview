@@ -6,6 +6,8 @@ Although we're working in groups for this assignment, we'll still turn in separa
 
 ## Instructions
 
+Start off by forking this repository. Forking an existing repository is just like creating a new one except that your new repository will contain a copy of the forked code. 
+
 #### Part 1: Ten questions, ten answers
 
 As a group, think of ten total questions that you can ask one another and record the answers to.
